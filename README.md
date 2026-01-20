@@ -12,7 +12,7 @@ An interactive web application for looking up neighbors by name or location in t
 ## Live Demo
 
 Visit the live application: [[https://whispersnowleopard.github.io/danbury/](https://whispersnowleopard.github.io/danbury/)](https://whispersnowleopard.github.io/danbury_neighbors/)
-note: I have encrpyted the application UI and code - please contact me for a demo
+- note: I have encrpyted the application UI and code - please contact me for a demo
 
 ## How to Use
 
